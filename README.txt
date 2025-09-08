@@ -116,4 +116,6 @@ you can safely delete them:
 
 ------------------------------------------------------------
 This is the end of README. We have provided all the instruction to run the codes and project.
+We have also attached the screenshots of the outputs in this repository
 ============================================================
+
